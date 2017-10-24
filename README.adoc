@@ -1,5 +1,10 @@
 = Terraform Module For CodeCommit + SQS
 
+WARNING: The latest version of this module is available on the
+https://registry.terraform.io/modules/riboseinc/codecommit-sqs/aws[Terraform Registry]
+and development moved to
+https://github.com/riboseinc/terraform-aws-codecommit-sqs[terraform-aws-codecommit-sqs]
+
 CodeCommit repos created using this terraform module is compatible with
 the
 https://github.com/riboseinc/aws-codecommit-trigger-plugin[Jenkins AWS CodeCommit Trigger Plugin],
